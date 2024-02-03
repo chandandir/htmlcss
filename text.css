@@ -1,0 +1,54 @@
+
+    p{
+        font-family: Arial;
+    }
+    .title{
+       
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+
+    .vid{
+      
+        font-size:14px;
+        color: rgb(96,96,96);
+        margin-top:0;
+        
+    }
+
+    .auth{
+        
+        font-style: 14px;
+        color:rgb(96,96,96);
+        margin-top: 0;
+        margin-bottom: 20px;
+
+    }
+
+    .des{
+        
+        font-weight: 200;
+        color:rgb(96,96,96);
+        width:300px;
+        line-height: 20px;
+        margin-bottom: 100px;
+    }
+    .link{
+        margin-bottom: 50px;
+        font: size 14px;
+        background-color: red;
+        color:white;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+       
+        
+    }
+    .click:hover{
+        cursor:pointer;
+        text-decoration: underline;
+    }
+
+
